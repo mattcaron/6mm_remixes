@@ -9,8 +9,8 @@ JUMP - doesn't appear to be a model of this (which makes sense,
 
 -- MMS
 -- MOBAT
-RAM
-VAMP
+-- RAM
+-- VAMP
 
 Cobra:
 
@@ -21,23 +21,26 @@ Missile Command HQ
 
 Joe:
 
-APC
-Dragonfly XH-1
-Falcon Glider
-Headquarters Commnd Center
-MANTA
-PAC/RATs
-Polar Battle Bear
-Skystriker
-Whirlwind
-Wolverine
+-- APC
+-- Dragonfly XH-1
+-- Falcon Glider
+-- Headquarters Commnd Center
+MANTA - this was a weird sailboat thing, no model for it.
+PAC/RATs - no model for this either
+-- Polar Battle Bear
+-- Skystriker
+-- Whirlwind
+-- Wolverine
 
 Cobra:
 
-FANG
-HISS
- - All variants and remember to take the high quality Arctic chassis
-   and use that with some turret options including the one with the
-   guy's head.
-SNAKE
-Viper Glider
+-- FANG
+-- HISS
+SNAKE - find some blocky armored infantry for this
+-- Viper Glider
+
+
+Also find:
+
+- Joe infantry
+- Cobra infantry

@@ -22,3 +22,5 @@ MBT-70 (upon which it was based) and it is *slightly* larger - 90% is
 about the correct scale. At the current scale (10% of action figure
 scale) it's about the size of an M1A1 Abrams, which is, honestly,
 quite fine. G.I. Joe is supposed to be larger than life anyway.
+
+== Individual model notes ==
