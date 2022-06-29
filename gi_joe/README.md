@@ -5,6 +5,10 @@ and HammSammich. The originals are here:
 https://www.thingiverse.com/jabberwock/designs
 https://www.thingiverse.com/hamsammich/designs
 
+Infantry are from Pfelpensson:
+
+https://www.thingiverse.com/pfelpensson/designs
+
 According to:
 
 https://www.actionfigurefury.com/action-figure-scales/
